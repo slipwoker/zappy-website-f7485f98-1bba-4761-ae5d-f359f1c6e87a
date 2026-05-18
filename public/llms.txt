@@ -1,0 +1,100 @@
+# Gold Lenses — Generative Engine Optimization Map
+
+> Gold Lenses is a premium colored contact lenses brand with a high-end, luxury positioning. The brand name evokes gold, glamour, and exclusivity, suggesting a sophisticated aesthetic focused on eye transformation and beauty enhancement. The business aims to deliver a top-tier, premium experience both in product quality and digital presence.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי את הקולקציה הפרימיום של Gold Lenses — עדשות צבעוניות בגוונים כמו rose gold lenses ו-silky gold לעיניים שמדברות בעד עצמן. הזמיני עכשיו!
+
+### הסיפור שלנו
+https://example.com/brand-story
+Gold Lenses נולדה מתוך חזון אחד: להפוך כל מבט לפסגת יופי. גלי את הסיפור שמאחורי המותג, הערכים שמניעים אותנו ולמה amara brown gold lenses שלנו הפכו לאייקון.
+
+### גלריה
+https://example.com/gallery
+צללי לגלריה המרהיבה של Gold Lenses וגלי כיצד silky gold lenses ו-rose gold lenses נראות על עיניים אמיתיות. השראה ויזואלית שתגרום לך להזמין מיד.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על oakley holbrook gold lenses או רוצה ייעוץ אישי לבחירת העדשה המושלמת? צוות Gold Lenses כאן בשבילך — צרי קשר ותקבלי מענה מהיר ומקצועי.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Gold Lenses
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Gold Lenses
+
+### Category
+https://example.com/category/:slug
+מוצרים - Gold Lenses
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Gold Lenses
+Gold Lenses is a premium colored contact lenses brand with a high-end, luxury positioning. The brand name evokes gold, glamour, and exclusivity, suggesting a sophisticated aesthetic focused on eye transformation and beauty enhancement. The business aims to deliver a top-tier, premium experience both in product quality and digital presence.
+
+## Target Audience
+- נשים צעירות אופנתיות
+- בלוגריות ויוצרות תוכן בתחום היופי
+- סטודנטים שאוהבים ללכת לאירועים
+
+## Industry
+E-commerce / Beauty & Cosmetics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
